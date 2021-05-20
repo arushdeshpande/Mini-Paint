@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background-image: url(bg.jpg);
+    background-size: cover;
+}
+#title{
+    color: white;
+    text-shadow: 1px 1px 5px yellow;
+    font-size: 50px;
+}
+canvas{
+    background-color: white;
+    box-shadow: 0px 0px 20px yellow;
+}
+label{
+    color: blanchedalmond;
+}
